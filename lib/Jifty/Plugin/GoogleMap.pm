@@ -4,6 +4,7 @@ use warnings;
 package Jifty::Plugin::GoogleMap;
 use base qw/Jifty::Plugin Class::Accessor::Fast/;
 
+our $VERSION = '0.01';
 
 =head1 NAME
 
